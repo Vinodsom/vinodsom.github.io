@@ -28,28 +28,32 @@ Surya Park Campus Electronic City,
  * A Senior IT leader and an Entrepreneur with proven skills in IT strategy, Pre-Sales, P&L, execution of Technology / Digital Transformation engagements, Product Engineering, Cloud Migration and in building C-Suite relationship. </p>
 <p>
 * At present, Conceptualizing, Architecting and building technology platform of intelligent operations at Genpact.
-* Co-founded a machine learning and AI start-up to provide an innovative and cost effective AI, ML and IOT solutions to Dairy farming Industry to improve the lives of dairy farmers </p>.
+* Co-founded a machine learning and AI start-up to provide an innovative and cost effective AI, ML and IOT solutions to Dairy farming Industry to improve the lives of dairy farmers </p> 
 <p>
-* Created value and delivered results to Financial Services (Core Banking, Insurance), Communication (networking) and Public Services clients in North America, UK and Australia geographies. Delivered complex global IT programs for Banking, Insurance and Consumer Goods and Services clients (on Java, Microsoft , SAP, Oracle ERP, Digital, cloud) across system integration, application development & management </p>
-* 
+* Created value and delivered results to Financial Services (Core Banking, Insurance), Communication (networking) and Public Services clients in North America, UK and Australia geographies. Delivered complex global IT programs for Banking, Insurance and Consumer Goods and Services clients (on Java, Microsoft , SAP, Oracle ERP, Digital, cloud) across system integration, application development & management 
+* </p>
+
 <br id="scroll"><br>
 <h3>  Education </h3>
 <br>
 <table style="width:100%">
 <tr>
-<td><center>2016 </center></td>
-<td>Bachelor of Engineering in Computer Science from SJCE Mysore</td>
+<td><center>2020 </center></td>
+<td>Pursing M.Tech in Software Engineering from BITS Pilani</td>
 </tr>
 <tr>
 <td><center>2007</center></td>
-
 <td>Leadership and Chanage Management from Wharton </td>
+</tr>
+<tr>
+<td><center>1993 </center></td>
+<td>Bachelor of Engineering in Computer Science from SJCE Mysore</td>
 </tr>
 </table>
 </h3>
 <br  id="work"><br>
 <h3>Work Experience </h3>
-<br><br>
+<br>
   <table style="width:100%">
   <tr>
   <td> 2020 till date </td>
