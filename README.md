@@ -1,5 +1,8 @@
 <br><br>
 <h1> VINODKUMAR S.</h1>
+<h2> 
+   Digital Transformation and Technology leader | Entrepreneur | Building Technology Platform for Intelligent Operations
+ </h2>
 <h3>
    Vice President - Product Engineering and Technology 
 </h3>
@@ -13,7 +16,7 @@ Surya Park Campus Electronic City,
 <p>
     Contact Details:
     <br>
-    Email: 2020mt93034@wilp.com
+    Email: 2020mt93034@wilp.bits-pilani.ac.in
     <br>
     Mobile: +91 9886118517
 </p>
@@ -22,7 +25,13 @@ Surya Park Campus Electronic City,
    Professional Summary
 </h3>
 <p>
-A senior IT leader with a passion to build technology platforms and continuosly adding value to the organization and client through innovation and leadership</p>
+ * A Senior IT leader and an Entrepreneur with proven skills in IT strategy, Pre-Sales, P&L, execution of Technology / Digital Transformation engagements, Product Engineering, Cloud Migration and in building C-Suite relationship. </p>
+<p>
+* At present, Conceptualizing, Architecting and building technology platform of intelligent operations at Genpact.
+* Co-founded a machine learning and AI start-up to provide an innovative and cost effective AI, ML and IOT solutions to Dairy farming Industry to improve the lives of dairy farmers </p>.
+<p>
+* Created value and delivered results to Financial Services (Core Banking, Insurance), Communication (networking) and Public Services clients in North America, UK and Australia geographies. Delivered complex global IT programs for Banking, Insurance and Consumer Goods and Services clients (on Java, Microsoft , SAP, Oracle ERP, Digital, cloud) across system integration, application development & management </p>
+* 
 <br id="scroll"><br>
 <h3>  Education </h3>
 <br>
@@ -53,7 +62,6 @@ A senior IT leader with a passion to build technology platforms and continuosly 
   </tr>
   <tr>
     <td>2016 to 2017</td>
-
     <td> Altisource- Vice President Product Engineering </td>
 </tr>
   <tr>
