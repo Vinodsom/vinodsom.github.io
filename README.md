@@ -9,9 +9,8 @@
 Genpact,
 <br>
 Surya Park Campus Electronic City,
-<br> Bengaluru 
-</p>
-
+Bengaluru 
+<br>
 <br id="contact">
 <p>
     Contact Details:
@@ -50,7 +49,6 @@ Surya Park Campus Electronic City,
 <td>Bachelor of Engineering in Computer Science from SJCE Mysore</td>
 </tr>
 </table>
-</h3>
 <br  id="work"><br>
 <h3>Work Experience </h3>
 <br>
